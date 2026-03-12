@@ -18,7 +18,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/card_detector.git
+git clone https://github.com/kochevnikDK/card-detector
 cd card_detector
 
 # Создание виртуального окружения (рекомендуется)
