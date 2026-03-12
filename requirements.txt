@@ -1,0 +1,15 @@
+# Основные библиотеки
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.0
+
+# YOLOv8 и зависимости
+ultralytics==8.0.186
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Для OCR (опционально)
+pytesseract==0.3.10
+
+# Для визуализации
+matplotlib==3.7.1
